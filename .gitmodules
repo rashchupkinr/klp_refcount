@@ -1,0 +1,6 @@
+[submodule "kp_refcount"]
+	path = kp_refcount
+	url = git@github.com:rashchupkinr/kp_refcount.git
+[submodule "kp_refcount_test"]
+	path = kp_refcount_test
+	url = git@github.com:rashchupkinr/kp_refcount_test.git
